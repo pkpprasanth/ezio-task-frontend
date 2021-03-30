@@ -1,0 +1,12 @@
+#home{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+#data{
+    text-align: left;
+    font-size: 20px;
+    margin-left: -0%;
+}
+#form{
+    margin-top: 100%;
+}
